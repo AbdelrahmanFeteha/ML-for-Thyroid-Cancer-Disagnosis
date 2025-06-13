@@ -1,5 +1,5 @@
 # Thyroid Tumor Classification using Machine Learning
-This project focuses on classifying thyroid tumors as benign or malignant based on demographic, clinical, and lifestyle data. It was developed as part of CMP 466 (Machine Learning and Data Mining) at the American University of Sharjah.
+This project focuses on classifying thyroid tumors as benign or malignant based on demographic, clinical, and lifestyle data. It was developed as part of CMP 466 (Machine Learning and Data Mining) at the American University of Sharjah in collaboration with my peers- Ahmed Mehaisi & Mohammad Navid Qarizadah 
 
 ## Dataset
 - Source: [Kaggle - Thyroid Cancer Risk Dataset](https://www.kaggle.com/datasets/bhargavchirumamilla/thyroid-cancer-risk-dataset)
